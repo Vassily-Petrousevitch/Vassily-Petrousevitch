@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vassily-Petrousevitch.
-- 👀 I’m interested in learning to code, video games, and sports.
+- 👀 I’m interested in coding, video games, and sports.
 - 🌱 I’m currently learning computer engineering at UBC!
 - 📫 How to reach me: vasspetrousevitch@gmail.com
 
