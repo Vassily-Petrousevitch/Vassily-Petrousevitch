@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Vassily-Petrousevitch.
-- 👀 I’m interested in coding, video games, and sports.
-- 🌱 I’m currently learning computer engineering at UBC!
-- 📫 How to reach me: vasspetrousevitch@gmail.com
+My name is Vassily Petrousevitch. I am a computer engineering student at UBC. You can reach me at vasspetrousevitch@gmail.com. 
 
 <!---
 Vassily-Petrousevitch/Vassily-Petrousevitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
