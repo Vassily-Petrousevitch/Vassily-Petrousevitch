@@ -1,6 +1,6 @@
 My name is Vassily Petrousevitch. I am a computer engineering student at UBC. You can reach me at vasspetrousevitch@gmail.com. 
 
-Check out my web portfolio! https://vassily-petrousevitch.github.io
+Check out my web portfolio! https://vassilyp.com
 
 <!---
 Vassily-Petrousevitch/Vassily-Petrousevitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
